@@ -27,7 +27,12 @@ textarea {
 .hour {
   background-color: #ffffff;
   color: #000000;
+  font-weight: bold;
+  text-decoration: underline;
   border-top: 1px dashed #000000;
+  border-bottom: 1px dashed #000000;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
 }
 
 .past {
